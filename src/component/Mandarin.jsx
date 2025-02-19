@@ -1,6 +1,6 @@
 import React from "react";
 import { hskVocabulary } from "./mandarinArr";
-
+// TAMBAH SISTEM FILTER DI MAPPING SUPAYA DAPAT HSK 1 dan HSK 2 lewat a
 export default function Mandarin() {
   return (
     <div>
